@@ -1,0 +1,1 @@
+# equal-weight-index-fund
